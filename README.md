@@ -1,1 +1,1 @@
-## [Random Quote Machine](https://kevnarang.github.io/random_quote_generator_fcc/)
+## [Random Quote Machine](https://kevnarang.github.io/fcc_random_quote_generator/)
